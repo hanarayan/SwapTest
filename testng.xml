@@ -1,0 +1,7 @@
+<suite name="AmazonTestSuite" parallel="tests">
+    <test name="AmazonTests">
+        <classes>
+            <class name="org.swapcard.qa.tests.AmazonTestNew"/>
+        </classes>
+    </test>
+</suite>
