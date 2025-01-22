@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertTrue;
-
+///With Page Object Factory
 public class AmazonTestNew {
     WebDriver driver;
     AmazonPages amazonPage;
